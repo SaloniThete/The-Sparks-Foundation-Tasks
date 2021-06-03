@@ -7,7 +7,7 @@ Problem statement : What will be predicted score if a student studies for 9.25 h
 
 Data can be found at : [Data](http://bit.ly/w-data)
 
-Linkedin Link: [Linkedin](https://www.linkedin.com/posts/saloni-t-2386371b2_datascience-machinelearning-python-activity-6805824825727176704-zcXq)
+Linkedin Link: [LinkedIn](https://www.linkedin.com/posts/saloni-t-2386371b2_datascience-machinelearning-python-activity-6805824825727176704-zcXq)
 
 Youtube Link: [YouTube](https://lnkd.in/d73HwC4)
 
@@ -18,6 +18,6 @@ and represent it visually.
 
 Data can be found at : [Data](https://bit.ly/3kXTdox)
 
-Linkedin Link: 
+Linkedin Link: [LinkedIn](https://www.linkedin.com/posts/saloni-t-2386371b2_task2-datascience-machinelearning-activity-6806145795050491904-9rQt)
 
 Youtube Link: [YouTube](https://youtu.be/1yRir9LyQ_I)
